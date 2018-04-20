@@ -1,3 +1,5 @@
 /index.html
 image/img/
 image - Copy/
+*.exe
+!game/
